@@ -1,4 +1,10 @@
 # 🎬 Netflix Movie Data Analysis
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Overview
 
